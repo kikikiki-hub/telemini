@@ -1,0 +1,5 @@
+{
+  "name": "TeleGemini",
+  "description": "A Telegram-inspired web client powered by the Gemini API, featuring multimodal chat and image generation capabilities.",
+  "requestFramePermissions": []
+}
